@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pokemon Attack Types Pie Chart</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <canvas id="pie-chart"></canvas>
+    <script>
+      // Connect to the Pokemon database
+      const db = openDatabase("pokemon.sqlite", "1.0", "Pokemon Database", 2 * 1024 * 1024);
+
+      // Retrieve the data from the "Attack" column
+      db.transaction(function(tx) {
+        tx.executeSql("SELECT attack, COUNT(*) as Count FROM pokemon GROUP BY attack", [], function(tx, results) {
+          // Convert the results to an array of objects
+          const data = [];
+          for (let i = 0; i < results.rows.length; i++) {
+            const row = results.rows.item(i);
+            data.push({
+              label: row.attack,
+              value: row.Count
+            });
+          }
+
+          // Create a pie chart using Chart.js
+          const ctx = document.getElementById("pie-chart").getContext("2d");
+          new Chart(ctx, {
+            type: "pie",
+            data: {
+              labels: data.map(d => d.label),
+              datasets: [{
+                data: data.map(d => d.value),
+                backgroundColor: [
+                  "rgba(255, 99, 132, 0.8)",
+                  "rgba(54, 162, 235, 0.8)",
+                  "rgba(255, 206, 86, 0.8)",
+                  "rgba(75, 192, 192, 0.8)",
+                  "rgba(153, 102, 255, 0.8)",
+                  "rgba(255, 159, 64, 0.8)",
+                  "rgba(255, 99, 132, 0.8)",
+                  "rgba(54, 162, 235, 0.8)",
+                  "rgba(255, 206, 86, 0.8)",
+                  "rgba(75, 192, 192, 0.8)",
+                  "rgba(153, 102, 255, 0.8)",
+                  "rgba(255, 159, 64, 0.8)",
+                ]
+              }]
+            },
+            options: {
+              responsive: true,
+              title: {
+                display: true,
+                text: "Pokemon Attack Types"
+              }
+            }
+          });
+        });
+      });
+    </script>
+  </body>
+</html>

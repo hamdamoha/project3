@@ -1,0 +1,902 @@
+[
+  {
+    "Pokemon name": "bulbasaur",
+    "Region": "cerulean-city-area",
+    "Latutude": 6.8428,
+    "Longitude": 81.3399
+  },
+  {
+    "Pokemon name": "ivysaur",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "venusaur",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "charmander",
+    "Region": "pallet-town-area",
+    "Latutude": 7.2936,
+    "Longitude": 80.6413
+  },
+  {
+    "Pokemon name": "charmeleon",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "charizard",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "squirtle",
+    "Region": "vermilion-city-area",
+    "Latutude": 8.8564,
+    "Longitude": 80.2042
+  },
+  {
+    "Pokemon name": "wartortle",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "blastoise",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "caterpie",
+    "Region": "eterna-forest-area",
+    "Latutude": 35.6762,
+    "Longitude": 139.6503
+  },
+  {
+    "Pokemon name": "metapod",
+    "Region": "eterna-forest-area",
+    "Latutude": 35.6762,
+    "Longitude": 139.6503
+  },
+  {
+    "Pokemon name": "butterfree",
+    "Region": "ilex-forest-area",
+    "Latutude": 43.6028,
+    "Longitude": 39.7342
+  },
+  {
+    "Pokemon name": "weedle",
+    "Region": "eterna-forest-area",
+    "Latutude": 35.6762,
+    "Longitude": 139.6503
+  },
+  {
+    "Pokemon name": "kakuna",
+    "Region": "eterna-forest-area",
+    "Latutude": 35.6762,
+    "Longitude": 139.6503
+  },
+  {
+    "Pokemon name": "beedrill",
+    "Region": "ilex-forest-area",
+    "Latutude": 43.6028,
+    "Longitude": 39.7342
+  },
+  {
+    "Pokemon name": "pidgey",
+    "Region": "sinnoh-route-229-area",
+    "Latutude": 59.9343,
+    "Longitude": 30.3351
+  },
+  {
+    "Pokemon name": "pidgeotto",
+    "Region": "johto-route-37-area",
+    "Latutude": 6.0329,
+    "Longitude": 80.2168
+  },
+  {
+    "Pokemon name": "pidgeot",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "rattata",
+    "Region": "sinnoh-route-225-area",
+    "Latutude": 55.754093,
+    "Longitude": 37.620407
+  },
+  {
+    "Pokemon name": "raticate",
+    "Region": "sinnoh-route-225-area",
+    "Latutude": 55.754093,
+    "Longitude": 37.620407
+  },
+  {
+    "Pokemon name": "spearow",
+    "Region": "sinnoh-route-225-area",
+    "Latutude": 55.754093,
+    "Longitude": 37.620407
+  },
+  {
+    "Pokemon name": "fearow",
+    "Region": "stark-mountain-area",
+    "Latutude": 38.2682,
+    "Longitude": 140.8694
+  },
+  {
+    "Pokemon name": "ekans",
+    "Region": "sinnoh-route-212-east-towards-pastoria-city",
+    "Latutude": 52.2855,
+    "Longitude": 104.289
+  },
+  {
+    "Pokemon name": "arbok",
+    "Region": "great-marsh-area-1",
+    "Latutude": 45.7567,
+    "Longitude": 126.6424
+  },
+  {
+    "Pokemon name": "pikachu",
+    "Region": "trophy-garden-area",
+    "Latutude": 13.0827,
+    "Longitude": 80.2707
+  },
+  {
+    "Pokemon name": "raichu",
+    "Region": "cerulean-cave-1f",
+    "Latutude": 22.1987,
+    "Longitude": 113.5439
+  },
+  {
+    "Pokemon name": "sandshrew",
+    "Region": "wayward-cave-1f",
+    "Latutude": 9.9312,
+    "Longitude": 76.2673
+  },
+  {
+    "Pokemon name": "sandslash",
+    "Region": "sinnoh-route-228-area",
+    "Latutude": 19.076,
+    "Longitude": 72.8777
+  },
+  {
+    "Pokemon name": "nidoran-f",
+    "Region": "sinnoh-route-201-area",
+    "Latutude": 43.6028,
+    "Longitude": 39.7342
+  },
+  {
+    "Pokemon name": "nidorina",
+    "Region": "valor-lakefront-area",
+    "Latutude": 30.5928,
+    "Longitude": 114.3052
+  },
+  {
+    "Pokemon name": "nidoqueen",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "nidoran-m",
+    "Region": "sinnoh-route-201-area",
+    "Latutude": 43.6028,
+    "Longitude": 39.7342
+  },
+  {
+    "Pokemon name": "nidorino",
+    "Region": "valor-lakefront-area",
+    "Latutude": 30.5928,
+    "Longitude": 114.3052
+  },
+  {
+    "Pokemon name": "nidoking",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "clefairy",
+    "Region": "mt-coronet-1f-route-207",
+    "Latutude": 35.0116,
+    "Longitude": 135.7681
+  },
+  {
+    "Pokemon name": "clefable",
+    "Region": "giant-chasm-outside",
+    "Latutude": 18.5204,
+    "Longitude": 73.8567
+  },
+  {
+    "Pokemon name": "vulpix",
+    "Region": "sinnoh-route-209-area",
+    "Latutude": 54.9914,
+    "Longitude": 73.3645
+  },
+  {
+    "Pokemon name": "ninetales",
+    "Region": "abundant-shrine-area",
+    "Latutude": 17.385,
+    "Longitude": 78.4867
+  },
+  {
+    "Pokemon name": "jigglypuff",
+    "Region": "johto-route-34-area",
+    "Latutude": 22.7196,
+    "Longitude": 75.8577
+  },
+  {
+    "Pokemon name": "wigglytuff",
+    "Region": "cerulean-cave-2f",
+    "Latutude": 23.8103,
+    "Longitude": 90.4125
+  },
+  {
+    "Pokemon name": "zubat",
+    "Region": "oreburgh-mine-1f",
+    "Latutude": 35.4437,
+    "Longitude": 139.638
+  },
+  {
+    "Pokemon name": "golbat",
+    "Region": "mt-coronet-1f-route-207",
+    "Latutude": 35.0116,
+    "Longitude": 135.7681
+  },
+  {
+    "Pokemon name": "oddish",
+    "Region": "sinnoh-route-224-area",
+    "Latutude": 55.7879,
+    "Longitude": 49.1233
+  },
+  {
+    "Pokemon name": "gloom",
+    "Region": "sinnoh-route-224-area",
+    "Latutude": 55.7879,
+    "Longitude": 49.1233
+  },
+  {
+    "Pokemon name": "vileplume",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "paras",
+    "Region": "ilex-forest-area",
+    "Latutude": 43.6028,
+    "Longitude": 39.7342
+  },
+  {
+    "Pokemon name": "parasect",
+    "Region": "mt-silver-2f",
+    "Latutude": 13.7563,
+    "Longitude": 100.5018
+  },
+  {
+    "Pokemon name": "venonat",
+    "Region": "sinnoh-route-229-area",
+    "Latutude": 59.9343,
+    "Longitude": 30.3351
+  },
+  {
+    "Pokemon name": "venomoth",
+    "Region": "sinnoh-route-229-area",
+    "Latutude": 59.9343,
+    "Longitude": 30.3351
+  },
+  {
+    "Pokemon name": "diglett",
+    "Region": "sinnoh-route-228-area",
+    "Latutude": 58.5256,
+    "Longitude": 31.2742
+  },
+  {
+    "Pokemon name": "dugtrio",
+    "Region": "sinnoh-route-228-area",
+    "Latutude": 58.5256,
+    "Longitude": 31.2742
+  },
+  {
+    "Pokemon name": "meowth",
+    "Region": "johto-route-35-area",
+    "Latutude": 17.3647,
+    "Longitude": 102.8159
+  },
+  {
+    "Pokemon name": "persian",
+    "Region": "kanto-route-7-area",
+    "Latutude": -33.9249,
+    "Longitude": 18.4241
+  },
+  {
+    "Pokemon name": "psyduck",
+    "Region": "eterna-city-area",
+    "Latutude": 25.2736,
+    "Longitude": 110.29
+  },
+  {
+    "Pokemon name": "golduck",
+    "Region": "eterna-city-area",
+    "Latutude": 25.2736,
+    "Longitude": 110.29
+  },
+  {
+    "Pokemon name": "mankey",
+    "Region": "sinnoh-route-225-area",
+    "Latutude": 55.754093,
+    "Longitude": 37.620407
+  },
+  {
+    "Pokemon name": "primeape",
+    "Region": "sinnoh-route-225-area",
+    "Latutude": 55.754093,
+    "Longitude": 37.620407
+  },
+  {
+    "Pokemon name": "growlithe",
+    "Region": "sinnoh-route-201-area",
+    "Latutude": 43.6028,
+    "Longitude": 39.7342
+  },
+  {
+    "Pokemon name": "arcanine",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "poliwag",
+    "Region": "sinnoh-route-225-area",
+    "Latutude": 55.754093,
+    "Longitude": 37.620407
+  },
+  {
+    "Pokemon name": "poliwhirl",
+    "Region": "sinnoh-route-225-area",
+    "Latutude": 55.754093,
+    "Longitude": 37.620407
+  },
+  {
+    "Pokemon name": "poliwrath",
+    "Region": "unova-victory-road-unknown-area-53",
+    "Latutude": 18.2855,
+    "Longitude": 99.5128
+  },
+  {
+    "Pokemon name": "abra",
+    "Region": "sinnoh-route-203-area",
+    "Latutude": 43.1332,
+    "Longitude": 131.9113
+  },
+  {
+    "Pokemon name": "kadabra",
+    "Region": "sinnoh-victory-road-2f",
+    "Latutude": 54.7903,
+    "Longitude": 32.0504
+  },
+  {
+    "Pokemon name": "alakazam",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "machop",
+    "Region": "mt-coronet-1f-route-207",
+    "Latutude": 35.0116,
+    "Longitude": 135.7681
+  },
+  {
+    "Pokemon name": "machoke",
+    "Region": "mt-coronet-2f",
+    "Latutude": 32.7503,
+    "Longitude": 129.8779
+  },
+  {
+    "Pokemon name": "machamp",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "bellsprout",
+    "Region": "sinnoh-route-224-area",
+    "Latutude": 55.7879,
+    "Longitude": 49.1233
+  },
+  {
+    "Pokemon name": "weepinbell",
+    "Region": "sinnoh-route-224-area",
+    "Latutude": 55.7879,
+    "Longitude": 49.1233
+  },
+  {
+    "Pokemon name": "victreebel",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "tentacool",
+    "Region": "canalave-city-area",
+    "Latutude": 34.6901,
+    "Longitude": 135.1956
+  },
+  {
+    "Pokemon name": "tentacruel",
+    "Region": "canalave-city-area",
+    "Latutude": 34.6901,
+    "Longitude": 135.1956
+  },
+  {
+    "Pokemon name": "geodude",
+    "Region": "oreburgh-mine-1f",
+    "Latutude": 35.4437,
+    "Longitude": 139.638
+  },
+  {
+    "Pokemon name": "graveler",
+    "Region": "mt-coronet-2f",
+    "Latutude": 32.7503,
+    "Longitude": 129.8779
+  },
+  {
+    "Pokemon name": "golem",
+    "Region": "johto-safari-zone-zone-peak",
+    "Latutude": 12.6814,
+    "Longitude": 101.2816
+  },
+  {
+    "Pokemon name": "ponyta",
+    "Region": "sinnoh-route-206-area",
+    "Latutude": 13.9718,
+    "Longitude": 108.0151
+  },
+  {
+    "Pokemon name": "rapidash",
+    "Region": "mt-silver-outside",
+    "Latutude": 35.4682,
+    "Longitude": 133.0484
+  },
+  {
+    "Pokemon name": "slowpoke",
+    "Region": "sinnoh-route-205-east-towards-eterna-city",
+    "Latutude": 56.0153,
+    "Longitude": 92.8932
+  },
+  {
+    "Pokemon name": "slowbro",
+    "Region": "slowpoke-well-b1f",
+    "Latutude": 10.0452,
+    "Longitude": 105.7469
+  },
+  {
+    "Pokemon name": "magnemite",
+    "Region": "fuego-ironworks-area",
+    "Latutude": 26.0742,
+    "Longitude": 119.2965
+  },
+  {
+    "Pokemon name": "magneton",
+    "Region": "sinnoh-victory-road-2f",
+    "Latutude": 54.7903,
+    "Longitude": 32.0504
+  },
+  {
+    "Pokemon name": "farfetchd",
+    "Region": "sinnoh-route-221-area",
+    "Latutude": 20.8449,
+    "Longitude": 106.6881
+  },
+  {
+    "Pokemon name": "doduo",
+    "Region": "sinnoh-route-201-area",
+    "Latutude": 43.6028,
+    "Longitude": 39.7342
+  },
+  {
+    "Pokemon name": "dodrio",
+    "Region": "mt-silver-outside",
+    "Latutude": 35.4682,
+    "Longitude": 133.0484
+  },
+  {
+    "Pokemon name": "seel",
+    "Region": "sinnoh-sea-route-226-area",
+    "Latutude": 56.3269,
+    "Longitude": 44.0059
+  },
+  {
+    "Pokemon name": "dewgong",
+    "Region": "sinnoh-victory-road-inside-b1f",
+    "Latutude": 54.7104,
+    "Longitude": 20.4522
+  },
+  {
+    "Pokemon name": "grimer",
+    "Region": "sinnoh-route-212-east-towards-pastoria-city",
+    "Latutude": 52.2855,
+    "Longitude": 104.289
+  },
+  {
+    "Pokemon name": "muk",
+    "Region": "celadon-city-area",
+    "Latutude": 21.0278,
+    "Longitude": 105.8342
+  },
+  {
+    "Pokemon name": "shellder",
+    "Region": "valley-windworks-area",
+    "Latutude": 3.5952,
+    "Longitude": 98.6722
+  },
+  {
+    "Pokemon name": "cloyster",
+    "Region": "undella-bay-area",
+    "Latutude": 3.1569,
+    "Longitude": 101.7123
+  },
+  {
+    "Pokemon name": "gastly",
+    "Region": "eterna-forest-area",
+    "Latutude": 35.6762,
+    "Longitude": 139.6503
+  },
+  {
+    "Pokemon name": "haunter",
+    "Region": "turnback-cave-pillar-1",
+    "Latutude": 4.5586,
+    "Longitude": 105.4068
+  },
+  {
+    "Pokemon name": "gengar",
+    "Region": "old-chateau-2f-right-room",
+    "Latutude": 68.9733,
+    "Longitude": 33.0856
+  },
+  {
+    "Pokemon name": "onix",
+    "Region": "oreburgh-mine-1f",
+    "Latutude": 35.4437,
+    "Longitude": 139.638
+  },
+  {
+    "Pokemon name": "drowzee",
+    "Region": "sinnoh-route-215-area",
+    "Latutude": 1.1255,
+    "Longitude": 97.5247
+  },
+  {
+    "Pokemon name": "hypno",
+    "Region": "kanto-route-11-area",
+    "Latutude": 57.1553,
+    "Longitude": 65.5619
+  },
+  {
+    "Pokemon name": "krabby",
+    "Region": "sinnoh-sea-route-226-area",
+    "Latutude": 56.3269,
+    "Longitude": 44.0059
+  },
+  {
+    "Pokemon name": "kingler",
+    "Region": "cherrygrove-city-area",
+    "Latutude": 1.5533,
+    "Longitude": 110.3592
+  },
+  {
+    "Pokemon name": "voltorb",
+    "Region": "sinnoh-route-218-area",
+    "Latutude": 45.036,
+    "Longitude": 38.9746
+  },
+  {
+    "Pokemon name": "electrode",
+    "Region": "cerulean-cave-1f",
+    "Latutude": 22.1987,
+    "Longitude": 113.5439
+  },
+  {
+    "Pokemon name": "exeggcute",
+    "Region": "johto-route-29-area",
+    "Latutude": 8.5874,
+    "Longitude": 81.2152
+  },
+  {
+    "Pokemon name": "exeggutor",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "cubone",
+    "Region": "sinnoh-route-203-area",
+    "Latutude": 43.1332,
+    "Longitude": 131.9113
+  },
+  {
+    "Pokemon name": "marowak",
+    "Region": "rock-tunnel-1f",
+    "Latutude": -27.4705,
+    "Longitude": 153.026
+  },
+  {
+    "Pokemon name": "hitmonlee",
+    "Region": "saffron-city-fighting-dojo",
+    "Latutude": 29.6526,
+    "Longitude": 91.1378
+  },
+  {
+    "Pokemon name": "hitmonchan",
+    "Region": "saffron-city-fighting-dojo",
+    "Latutude": 29.6526,
+    "Longitude": 91.1378
+  },
+  {
+    "Pokemon name": "lickitung",
+    "Region": "lake-valor-area",
+    "Latutude": -33.8688,
+    "Longitude": 151.2093
+  },
+  {
+    "Pokemon name": "koffing",
+    "Region": "stark-mountain-inside",
+    "Latutude": 55.1644,
+    "Longitude": 61.4368
+  },
+  {
+    "Pokemon name": "weezing",
+    "Region": "stark-mountain-area",
+    "Latutude": 38.2682,
+    "Longitude": 140.8694
+  },
+  {
+    "Pokemon name": "rhyhorn",
+    "Region": "sinnoh-victory-road-1f",
+    "Latutude": 22.3193,
+    "Longitude": 114.1694
+  },
+  {
+    "Pokemon name": "rhydon",
+    "Region": "sinnoh-victory-road-1f",
+    "Latutude": 22.3193,
+    "Longitude": 114.1694
+  },
+  {
+    "Pokemon name": "chansey",
+    "Region": "sinnoh-route-209-area",
+    "Latutude": 54.9914,
+    "Longitude": 73.3645
+  },
+  {
+    "Pokemon name": "tangela",
+    "Region": "great-marsh-area-1",
+    "Latutude": 45.7567,
+    "Longitude": 126.6424
+  },
+  {
+    "Pokemon name": "kangaskhan",
+    "Region": "rock-tunnel-b1f",
+    "Latutude": -37.8136,
+    "Longitude": 144.9631
+  },
+  {
+    "Pokemon name": "horsea",
+    "Region": "sinnoh-sea-route-226-area",
+    "Latutude": 56.3269,
+    "Longitude": 44.0059
+  },
+  {
+    "Pokemon name": "seadra",
+    "Region": "sinnoh-sea-route-226-area",
+    "Latutude": 56.3269,
+    "Longitude": 44.0059
+  },
+  {
+    "Pokemon name": "goldeen",
+    "Region": "sendoff-spring-area",
+    "Latutude": 32.0584,
+    "Longitude": 118.7965
+  },
+  {
+    "Pokemon name": "seaking",
+    "Region": "sendoff-spring-area",
+    "Latutude": 32.0584,
+    "Longitude": 118.7965
+  },
+  {
+    "Pokemon name": "staryu",
+    "Region": "canalave-city-area",
+    "Latutude": 34.6901,
+    "Longitude": 135.1956
+  },
+  {
+    "Pokemon name": "starmie",
+    "Region": "unova-route-13-area",
+    "Latutude": -22.5752,
+    "Longitude": 144.0848
+  },
+  {
+    "Pokemon name": "mr-mime",
+    "Region": "sinnoh-route-218-area",
+    "Latutude": 45.036,
+    "Longitude": 38.9746
+  },
+  {
+    "Pokemon name": "scyther",
+    "Region": "sinnoh-route-210-south-towards-solaceon-town",
+    "Latutude": -23.698,
+    "Longitude": 133.8807
+  },
+  {
+    "Pokemon name": "jynx",
+    "Region": "snowpoint-temple-b1f",
+    "Latutude": 57.8167,
+    "Longitude": 28.3345
+  },
+  {
+    "Pokemon name": "electabuzz",
+    "Region": "sinnoh-route-222-area",
+    "Latutude": -34.2069,
+    "Longitude": 142.1367
+  },
+  {
+    "Pokemon name": "magmar",
+    "Region": "fuego-ironworks-area",
+    "Latutude": 26.0742,
+    "Longitude": 119.2965
+  },
+  {
+    "Pokemon name": "pinsir",
+    "Region": "sinnoh-route-229-area",
+    "Latutude": 59.9343,
+    "Longitude": 30.3351
+  },
+  {
+    "Pokemon name": "tauros",
+    "Region": "sinnoh-route-209-area",
+    "Latutude": 54.9914,
+    "Longitude": 73.3645
+  },
+  {
+    "Pokemon name": "magikarp",
+    "Region": "canalave-city-area",
+    "Latutude": 34.6901,
+    "Longitude": 135.1956
+  },
+  {
+    "Pokemon name": "gyarados",
+    "Region": "canalave-city-area",
+    "Latutude": 34.6901,
+    "Longitude": 135.1956
+  },
+  {
+    "Pokemon name": "lapras",
+    "Region": "sinnoh-victory-road-inside-b1f",
+    "Latutude": 54.7104,
+    "Longitude": 20.4522
+  },
+  {
+    "Pokemon name": "ditto",
+    "Region": "sinnoh-route-218-area",
+    "Latutude": 45.036,
+    "Longitude": 38.9746
+  },
+  {
+    "Pokemon name": "eevee",
+    "Region": "castelia-city-area",
+    "Latutude": -28.0167,
+    "Longitude": 153.4
+  },
+  {
+    "Pokemon name": "vaporeon",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "jolteon",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "flareon",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "porygon",
+    "Region": "veilstone-city-area",
+    "Latutude": -18.7669,
+    "Longitude": 46.8691
+  },
+  {
+    "Pokemon name": "omanyte",
+    "Region": "sinnoh-route-218-area",
+    "Latutude": 43.0618,
+    "Longitude": 141.3545
+  },
+  {
+    "Pokemon name": "omastar",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "kabuto",
+    "Region": "cinnabar-island-cinnabar-lab",
+    "Latutude": 43.0618,
+    "Longitude": 141.3545
+  },
+  {
+    "Pokemon name": "kabutops",
+    "Region": "Whitechapel",
+    "Latutude": 51.5148,
+    "Longitude": 0.0651
+  },
+  {
+    "Pokemon name": "aerodactyl",
+    "Region": "cinnabar-island-cinnabar-lab",
+    "Latutude": 43.0618,
+    "Longitude": 141.3545
+  },
+  {
+    "Pokemon name": "snorlax",
+    "Region": "kanto-route-12-area",
+    "Latutude": 53.0584,
+    "Longitude": 158.6321
+  },
+  {
+    "Pokemon name": "articuno",
+    "Region": "seafoam-islands-b4f",
+    "Latutude": 52.6293,
+    "Longitude": 1.2979
+  },
+  {
+    "Pokemon name": "zapdos",
+    "Region": "kanto-route-10-area",
+    "Latutude": 51.2802,
+    "Longitude": 1.0789
+  },
+  {
+    "Pokemon name": "moltres",
+    "Region": "mt-silver-top",
+    "Latutude": 50.4155,
+    "Longitude": -15.0737
+  },
+  {
+    "Pokemon name": "dratini",
+    "Region": "mt-coronet-4f",
+    "Latutude": 39.9042,
+    "Longitude": 116.4074
+  },
+  {
+    "Pokemon name": "dragonair",
+    "Region": "mt-coronet-4f",
+    "Latutude": 39.9042,
+    "Longitude": 116.4074
+  },
+  {
+    "Pokemon name": "dragonite",
+    "Region": "dragonspiral-tower-outside",
+    "Latutude": 50.3755,
+    "Longitude": -4.1427
+  },
+  {
+    "Pokemon name": "mewtwo",
+    "Region": "cerulean-cave-b1f",
+    "Latutude": 28.7041,
+    "Longitude": 77.1025
+  }
+]
